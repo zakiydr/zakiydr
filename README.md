@@ -1,9 +1,10 @@
 <h1 align="center">Hi folks👋, Zaki here</h1>
+
 - 🌱 I’m currently learning **Python Pandas, Django, Flutter, Sql**
 
 - 📫 You can reach me in **zakiyuddinr@gmail.com**
 
-- ⚡ Fun fact **In the world of coder, i'm a writer**
+- ⚡ Fun fact: **In the world of coder, i'm a writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
