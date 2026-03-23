@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python Pandas, Django, Flutter, Sql**
 
-- 📫 You can reach me in **zakiyuddinr@gmail.com**
+- 📫 You can reach me on **zakiyuddinr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
